@@ -1,0 +1,11 @@
+Object dan Class
+Constroktur dan Method 
+Inheritance
+Encapsulation
+Polymorphish
+
+Encapsulation: Penggunaan akses modifier private untuk properti dalam kelas Mobil dan Kuitansi untuk melindungi data. Getter dan Setter digunakan untuk mengakses dan memodifikasi data.
+Inheritance: Kelas Kuitansi mewarisi dari kelas Mobil menggunakan keyword extends.
+Constructor dan Method: Kelas Mobil dan Kuitansi masing-masing memiliki constructor untuk menginisialisasi objek. Kelas Mobil memiliki metode untuk menghitung pajak dan total harga, sementara kelas Kuitansi memiliki metode untuk mencetak kuitansi.
+Polymorphism: Dalam metode cetakKuitansi, kita bisa melihat penggunaan metode yang berbeda pada objek dari kelas yang sama, menunjukkan perilaku polimorfik.
+Object dan Class: Program ini terdiri dari beberapa kelas yang merepresentasikan objek dengan properti dan metode terkait.
